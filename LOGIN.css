@@ -1,0 +1,13 @@
+body{color: black; background: url(Backg.jpg); text-align: center;border: 2pxsolidblack;}
+
+input{block-size: 30px;width: 300px; border-style: hidden;}
+
+input[type=radio]{display:grid; }
+
+input[type=button]{ border-radius: 15px; background-color: aquamarine;}
+
+input[type=button]:hover{ background-color: aqua;}
+
+
+input[type=text],input[type=number],input[type=email],input[type=password],input[type=date],input[type=color]
+{border-style:hidden;border-radius: 20px;}
